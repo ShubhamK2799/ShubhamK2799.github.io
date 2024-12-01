@@ -302,10 +302,9 @@ h1 {
 
 /* Project Item */
 .project-item {
-    margin-bottom: 20px;
-    padding: 15px;
-    border-left: 4px solid white;
-    border-radius: 4px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-left: 2px solid white;
     padding-left: 15px;
     transition: background-color 0.3s;
 }
@@ -336,18 +335,15 @@ h1 {
 .certification-item {
     display: flex;
     align-items: flex-start;
-    border-left: 4px solid white;
-    border-radius: 4px;
-    padding: 15px;
-    margin-bottom: 20px;
+    margin-bottom: 2%;
     transition: background-color 0.3s;
 }
 
 .certification-logo {
     margin-right: 20px;
-    width: 50px;
-    height: 50px;
-    border-radius: 4px;
+    width: 45px;
+    height: 45px;
+    border-radius: 0px;
 }
 
 .certification-details {
@@ -378,7 +374,6 @@ h1 {
     display: inline-block;
     padding: 8px 12px;
     border: 1px solid white;
-    border-radius: 4px;
     text-decoration: none;
     color: white;
     font-size: 14px;
